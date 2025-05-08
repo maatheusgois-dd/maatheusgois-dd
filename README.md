@@ -3,7 +3,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/maatheusgois/">LinkedIn</a> •
   <a href="https://twitter.com/maatheusgois">Twitter</a> •
-  <a href="https://maatheus.dev">Website</a>
+  <a href="https://gois.dev.br">Website</a>
 </p>
 
 ---
