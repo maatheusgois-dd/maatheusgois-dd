@@ -8,9 +8,8 @@
 
 ---
 
-💼 Working at <strong>DoorDash</strong> as a Software Engineer  
-🧠 Passionate about distributed systems, backend infrastructure, and developer experience  
-🎓 Former intern at iFood & Trybe
+💼 Working at <strong>DoorDash</strong> as a iOS Software Engineer  
+🧠 Passionate about iOS and developer experience
 
 ---
 
@@ -34,4 +33,4 @@
 
 ## 📫 Let's Connect
 
-If you're working on something exciting or want to chat about backend systems or engineering growth, feel free to reach out!
+If you're working on something exciting or want to chat about iOS Architecture or engineering growth, feel free to reach out!
